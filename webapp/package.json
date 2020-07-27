@@ -13,6 +13,9 @@
   "devDependencies": {
     "@types/react": "^16.9.43",
     "@types/react-dom": "^16.9.8",
+    "@types/styletron-engine-atomic": "^1.1.0",
+    "@types/styletron-react": "^5.0.2",
+    "@types/styletron-standard": "^2.0.0",
     "@typescript-eslint/eslint-plugin": "^3.7.0",
     "@typescript-eslint/parser": "^3.7.0",
     "eslint": "^5.16.0",
@@ -30,7 +33,11 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
+    "baseui": "^9.89.0",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "styletron-engine-atomic": "^1.4.6",
+    "styletron-react": "^5.2.7",
+    "styletron-standard": "^3.0.4"
   }
 }
